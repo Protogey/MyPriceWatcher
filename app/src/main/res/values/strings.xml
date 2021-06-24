@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Price Watcher - Cesar Lopez</string>
+    <string name="fire_stick_lite">Fire Stick Lite</string>
+    <string name="starting_price_29_99">Starting Price: 29.99</string>
+    <string name="get_current_price">Get Current Price</string>
+    <string name="percentage_change">Percentage Change:</string>
+    <string name="current_price">Current Price:</string>
+    <string name="search">Search</string>
+    <string name="item_to_look_up">Item to look up:</string>
+    <string name="go_to_item_website">Go to Item website</string>
+    <string name="enter_an_item">enter_an_item</string>
+    <string name="add">add</string>
+    <string name="remove_all">remove_all</string>
+    <string name="enter_item_url">enter_item_url</string>
+</resources>
